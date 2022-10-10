@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+body {
+  margin: 0cm;
+  display: grid;
+  place-items: end center;
+  padding: 200px;
+}
+
+.container {
+  width: 450px;
+  height: 350px;
+  display: grid;
+  place-items: center;
+}
+
+.button {
+  place-items: center;
+}
+
+.banner {
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkcyan;
+  margin-left: 38px;
+}
